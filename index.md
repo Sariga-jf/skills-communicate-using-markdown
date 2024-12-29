@@ -18,7 +18,13 @@ and 4 would be
 ##### hello
 and 6 would be 
 ###### hello
+
 for example 
-# Tigers in India
-### The national animal of india , yet not safe in the country
+# Inserting images
+### The national animal of india 
 ![Image of TIger](https://files.worldwildlife.org/wwfcmsprod/images/Tiger_resting_Bandhavgarh_National_Park_India/hero_small/6aofsvaglm_Medium_WW226365.jpg)
+# code
+~~~ python
+    num=int(input())
+    print(num) 
+~~~
