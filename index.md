@@ -31,3 +31,6 @@ for example
 ~~~ c
     printf("Hello World");
 ~~~
+``` javascript
+var myVar = "Hello, world!";
+```
