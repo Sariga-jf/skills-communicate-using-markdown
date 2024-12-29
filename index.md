@@ -28,3 +28,6 @@ for example
     num=int(input())
     print(num) 
 ~~~
+~~~ c
+    printf("Hello World");
+~~~
