@@ -24,13 +24,21 @@ for example
 ### The national animal of india 
 ![Image of TIger](https://files.worldwildlife.org/wwfcmsprod/images/Tiger_resting_Bandhavgarh_National_Park_India/hero_small/6aofsvaglm_Medium_WW226365.jpg)
 # code
+### python
 ~~~ python
     num=int(input())
     print(num) 
 ~~~
+### c
 ~~~ c
     printf("Hello World");
 ~~~
+### js
 ``` javascript
 var myVar = "Hello, world!";
 ```
+# Task list
+- [x] Wake up
+- [x] Eat breakfast
+- [ ] Study
+      
